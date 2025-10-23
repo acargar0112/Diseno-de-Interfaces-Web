@@ -4,6 +4,7 @@
 
 - Tema 1. Principios de diseño web
 - Tema 2. Usabilidad
+  - Actividad 1 bis: ChekList.ods
 
 ## 🙋 Autor
 
